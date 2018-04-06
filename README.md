@@ -1,2 +1,2 @@
 # corporategym
-A corporate gym equipment plan
+A corporate gym equipment plan created for CiDi
