@@ -36,17 +36,16 @@
 
 ## Compound Machines
 - 1x Back Extension Machine
-- 1x Chest Machine
-- 1x Shoulder Machine
-- 1x Rowing Mahine
+- 1x3000 [Chest Machine (Maisijie) 大黄蜂健身器材商用 坐式推胸](https://item.taobao.com/item.htm?spm=2013.1.20141003.4.4eb356bcTzUEIx&scm=1007.10011.70203.100200300000001&id=559846648738&pvid=115ba610-8852-424a-a737-e1a432166f8c)
+- 1x Shoulder Machine (Maisijie)
+- 1x Rowing Mahine (Maisijie)
 - 1x Leg Press Machine
-- 1xHamstring/Quad Machine
-- 1x Lee Priest Compound Machine
-- 1x Pulldown Machine
-- 1x Lat Pulldown Machine
-- 1x Cable Crossover Machine
-- 1x Smith Machine
-- 1x Preacher Seat
+- 1x3000 [Hamstring (Maisijie) 欧款健身房器材卧俯屈腿训练器腿部训练器屈腿训练器私教](http://item.taobao.com/item.htm?spm=2013.1.20141002.9.4eb356bcTzUEIx&scm=1007.10009.70205.100200300000001&id=536361408786&pvid=79927421-a473-4f61-ad6f-cc9def5ec983)
+- 1x Pulldown Machine (Maisijie)
+- 1x3600 [Lat Pulldown Machine (Maisijie) 健身房商用拉背机](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-17304527080.82.4f225a6cg4dtJ0&id=559648080390)
+- 1x Cable Crossover Machine (Maisijie)
+- 1x2600 [Smith Machine (Maisijie) 史密斯机](https://item.taobao.com/item.htm?spm=2013.1.1998246703.2.7b001500Lddm6a&id=535593032733&taskid=73217450)
+- 1x930 [Preacher Seat 欧款健身房器材纯商用牧师椅 二头训练器 二头肌架 二头肌训练板 ](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-17304527080.30.eb835a6cMSD8M5&id=536477413868)
 
 ## Bodyweight Machines
 - 4x [Back Stretcher 三飞Impact 家用/轻商用力量健身器材  伸展机FM8860](https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.26.626c7484uRHHxw&id=44576461353)
@@ -59,6 +58,7 @@
 
 ## Treadmills
 - 8x Treadmills
+- 4x Ellipticals?
 
 ## Rowing Machines
 - 3x Rowing Machines
@@ -79,6 +79,11 @@
 - 1x Wall Rackhttps://item.taobao.com/item.htm?spm=2013.1.0.0.3be43341UTUA9D&id=566633697356&scm=1007.12144.96849.42296_42296&pvid=d7d95409-babf-44ef-9c11-af57119871af&utparam=%7B%22x_object_type%22%3A%22item%22%2C%22x_object_id%22%3A566633697356%7D&utparam=%7B%22x_object_type%22%3A%22item%22%2C%22x_object_id%22%3A566633697356%7D
 - 1x Collars
 - 10x Yoga Mats
+- Jump Ropes
+- Holders for all this stuff (Check Crossfitty Stuff)
+## Books
+- 1x51 [Starting Strength 正版现货力量基础训练](https://detail.tmall.com/item.htm?spm=a230r.1.14.112.335a4f43y6WnW7&id=536839531397&ns=1&abbucket=13)
+- 1x51 [Practical Programming for Strength Training 现货正版力量训练计划](https://detail.tmall.com/item.htm?id=565913863556&spm=a220o.1000855.1998099587.1.2eac58eeMk9BMU)
 
 ## Questions
 - Floor mat situation?
