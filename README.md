@@ -76,7 +76,7 @@
 - 1x Bands
 - 1x Foam Rollers
 - 1x Light Boxes/Blocks
-- 1x Wall Rackhttps://item.taobao.com/item.htm?spm=2013.1.0.0.3be43341UTUA9D&id=566633697356&scm=1007.12144.96849.42296_42296&pvid=d7d95409-babf-44ef-9c11-af57119871af&utparam=%7B%22x_object_type%22%3A%22item%22%2C%22x_object_id%22%3A566633697356%7D&utparam=%7B%22x_object_type%22%3A%22item%22%2C%22x_object_id%22%3A566633697356%7D
+- 1x [Wall Rack](https://item.taobao.com/item.htm?spm=2013.1.0.0.3be43341UTUA9D&id=566633697356&scm=1007.12144.96849.42296_42296&pvid=d7d95409-babf-44ef-9c11-af57119871af&utparam=%7B%22x_object_type%22%3A%22item%22%2C%22x_object_id%22%3A566633697356%7D&utparam=%7B%22x_object_type%22%3A%22item%22%2C%22x_object_id%22%3A566633697356%7D)
 - 1x Collars
 - 10x Yoga Mats
 - Jump Ropes
