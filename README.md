@@ -7,14 +7,13 @@
 
 [Maisijie](https://shop143699949.taobao.com/index.htm?spm=2013.1.w5002-17872910701.2.62416c66ZHXqv9)
 
+[Vitox](https://shop34371253.taobao.com/)
 
 
 
 ## Racks
 - 1x[Crossfit Monkey Gym 训练综合架](https://item.taobao.com/item.htm?id=565062569404&ali_refid=a3_430582_1006:1150160601:N:%E7%BB%BC%E5%90%88%E8%AE%AD%E7%BB%83%E6%9E%B6crossfit:fd9d97e03c5b52797750b066df155468&ali_trackid=1_fd9d97e03c5b52797750b066df155468&spm=a230r.1.14.6#detail)
 - 1x[CROSSFIT RIG体能训练综合架私教健身房器材8立柱经典搭配多功能](https://item.taobao.com/item.htm?id=536246365119&ali_refid=a3_430008_1006:1123473788:N:crossfit:cb2b3ad6cae839232602464077ec4414&ali_trackid=1_cb2b3ad6cae839232602464077ec4414&spm=a230r.1.0.0)
-
-
 - 1x Squat Rack
 
 ## Benches
@@ -22,12 +21,13 @@
 - 2x980 [Incline Bench](https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4011-15013193622.28.7780516eoK31Qh&id=19626909220&rn=efb84297c1740187a1866cc03e1eb239&abbucket=20&skuId=41423123948)
 
 ## Barbell and Plates/Weights
-- 2x620 [Black Barbell](https://detail.tmall.com/item.htm?spm=a1z10.1-b-s.w8942534-15013193590.8.2ed921a0p43zy8&id=26939540227&skuId=3105600895885)
-- 1x Women's Barbell
-- 1x365 [Black EZ Bar](https://detail.tmall.com/item.htm?spm=a220o.1000855.1998025129.1.6fc629a6c0b9C2&abtest=_AB-LR32-PR32&pvid=cf8896cd-b462-4eb3-ada9-b01d6981f593&pos=1&abbucket=_AB-M32_B3&acm=03054.1003.1.2768562&id=27316536042&scm=1007.16862.95220.23864_0)
-- 1x Safety Squat Bar
+
+- 2x538 [Men's Barbell 商用2.2米商用杠铃杆1200LB奥林匹克杠铃杆1310间距配合举重架杆 ](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-16765832687.27.1f176b67c32aNl&id=35846408133)
+- 1x360 [Women's Barbell 商用奥林匹克女子训练杠铃杆72寸女子杆彩色杆铝质奥林匹克训练杆](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-16765832687.42.1f176b67c32aNl&id=521446565515)
+- 1x138 [EZ Curl Bar 家用1.2M举重杆训练杆奥林匹克杆小弯曲柄杠铃杆奥杆OC-47曲奥杆](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-16765832687.45.70896b67SgCNg1&id=35098933045)
 - 1x [Weights up to 400](https://item.taobao.com/item.htm?spm=2013.1.0.0.488979e8Vltz1r&id=36482960809&scm=1007.12144.96849.42296_42296&pvid=5c072ba8-d369-430d-bc9e-a78e59e05dec&utparam=%7B%22x_object_type%22%3A%22item%22%2C%22x_object_id%22%3A36482960809%7D&utparam=%7B%22x_object_type%22%3A%22item%22%2C%22x_object_id%22%3A36482960809%7D)
-- 1x Plate Racks
+- Plates: Vitox
+- 1x Plate Racks: https://vitox.taobao.com/category-794164649.htm?spm=a1z10.1-c-s.w5003-16765832672.6.65c5430ecwSylQ&search=y&parentCatId=764102232&parentCatName=%C1%A6%C1%BF%C6%F7%D0%B5+StrengthTraling&catName=%B8%F7%D6%D6%BC%DC%D7%D3&scene=taobao_shop#bd
 
 
 ## Dumbbell
@@ -57,8 +57,8 @@
 - 1x Kettlebells up to 20kg
 
 ## Treadmills
-- 8x Treadmills
-- 4x Ellipticals?
+- 4x4599 [Treadmills](https://detail.tmall.com/item.htm?spm=a230r.1.14.345.2e7d12beUaQ7av&id=526429446260&ns=1&abbucket=13)
+- 4x Ellipticals? Same Store
 
 ## Rowing Machines
 - 3x Rowing Machines
